@@ -1,0 +1,35 @@
+# Logs and data files
+*.log
+*.csv
+
+# Environment and secrets
+.env
+*.pfx
+*.cer
+*.pem
+*.key
+
+# Windows junk
+thumbs.db
+Thumbs.db
+desktop.ini
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS junk
+.DS_Store
+._*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PowerShell
+*.ps1xml
+
+# Temporary files
+*.tmp
+*.bak
